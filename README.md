@@ -1,3 +1,3 @@
 # Photorealistic-Cards
-Visit card on Marble background
-The project founded on CODEPEN
+Visit card on Marble background</br>
+The project was published on <strong><a href="https://codepen.io/">CODEPEN</a><strong>.
